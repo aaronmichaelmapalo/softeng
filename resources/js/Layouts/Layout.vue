@@ -3,6 +3,13 @@
       <div class="w-1/6 bg-blue-500 h-screen">
           <!--SIDEBAR-->
         <div class="flex flex-col w-1/6 h-screen fixed px-4 py-8 bg-white border-r dark:bg-gray-800 dark:border-gray-600">
+            
+            <!--
+            <div class="max-w-xs mx-auto -mt-5 overflow-hidden bg-white rounded-sm shadow-lg dark:bg-gray-800">
+                    <img class="object-cover w-full h-auto" src="https://i.ytimg.com/vi/if-2M3K1tqk/maxresdefault.jpg" alt="avatar">
+            </div><br>
+            -->
+            
             <h2 class="text-3xl font-semibold text-gray-800 dark:text-white">Aaron Michael</h2>
             
             <div class="flex flex-col justify-between flex-1 mt-6">
@@ -12,7 +19,7 @@
                         <path d="M19 11H5M19 11C20.1046 11 21 11.8954 21 13V19C21 20.1046 20.1046 21 19 21H5C3.89543 21 3 20.1046 3 19V13C3 11.8954 3.89543 11 5 11M19 11V9C19 7.89543 18.1046 7 17 7M5 11V9C5 7.89543 5.89543 7 7 7M7 7V5C7 3.89543 7.89543 3 9 3H15C16.1046 3 17 3.89543 17 5V7M7 7H17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
 
-                        <span class="mx-4 font-medium">Dashboard</span>
+                        <span class="mx-4 font-medium">Stock</span>
                     </a>
 
                     <a class="flex items-center px-4 py-2 mt-5 text-gray-600 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-700" href="#">
