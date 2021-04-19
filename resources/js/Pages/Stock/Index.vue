@@ -13,6 +13,10 @@
             
             <!--TABLE-->
             <a class="text-2xl font-bold">Stocks</a>
+            <inertia-link :href="route('stock.create')">
+                    <button class="mx-2 my-2 bg-indigo-700 w-25 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-5 py-2 text-xs">Create</button>
+
+              </inertia-link>
             <table class="w-full table-auto rounded-t m-5 w-5/6 mx-auto bg-gray-200 text-gray-800">
               <tr class="text-left border-b-2 border-gray-300">
                 <th class="px-4 py-3">ID</th>
